@@ -1,7 +1,7 @@
 # classic-synchronization-problems
 This project contains C++ implementations of classic concurrency and synchronization problems. Done in a Linux virtual box.
 
-For my operating systems class.
+For my operating systems class. In colaboration with Shuban Srikantha.
 
 ## 🔧 Problems Included
 - **Bank (a):** Basic bank thread interaction
